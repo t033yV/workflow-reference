@@ -1,7 +1,7 @@
 # Workflow Reference  
 
 ## Overview  
-This repository serves as a **detailed reference** for project structures, coding best practices, and Git collaboration. It is designed to help streamline workflows, ensure consistency, and provide guidance for managing repositories effectively.  
+This repository serves as a *overview of the repo and how to use it. It is designed to help streamline workflows, ensure consistency, and provide guidance for managing repositories effectively.  
 
 ## What You'll Find Here  
 ✅ Project structure guidelines for different tech stacks  
