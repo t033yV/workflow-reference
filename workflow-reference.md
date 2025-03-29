@@ -1,4 +1,4 @@
-# 🚀 workflow reference
+# workflow reference
 
 Welcome to the **workflow reference** – a structured guide for managing and scaling projects. This repo serves as a **reference, workflow guide, and collaboration setup** for future development.
 
